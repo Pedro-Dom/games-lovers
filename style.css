@@ -75,5 +75,13 @@ input {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 20px;
+}
 
+.button {
+    width: 40%;
+    height: 50px;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
 }
